@@ -1,0 +1,7 @@
+react element is an object at the end of the day.
+
+what is cdn, why am i using it
+what is crossorigin, why am i using it
+
+root.render() just add the html code into the div which have id as a "root"
+If that div has previous content in it then it will be replace by root.render() 
